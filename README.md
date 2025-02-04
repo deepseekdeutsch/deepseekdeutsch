@@ -5,87 +5,73 @@
 <div align="center">
   <img src="https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true" width="60%" alt="DeepSeek-V3" />
 </div>
-<hr>
-<div align="center" style="line-height: 1;">
-  <a href="https://www.deepseek.com/" target="_blank" style="margin: 2px;">
-    <img alt="Homepage" src="https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/badge.svg?raw=true" style="display: inline-block; vertical-align: middle;"/>
-  </a>
-  <a href="https://chat.deepseek.com/" target="_blank" style="margin: 2px;">
-    <img alt="Chat" src="https://img.shields.io/badge/🤖%20Chat-DeepSeek%20V3-536af5?color=536af5&logoColor=white" style="display: inline-block; vertical-align: middle;"/>
-  </a>
-  <a href="https://huggingface.co/deepseek-ai" target="_blank" style="margin: 2px;">
-    <img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-DeepSeek%20AI-ffc107?color=ffc107&logoColor=white" style="display: inline-block; vertical-align: middle;"/>
-  </a>
-</div>
 
-<div align="center" style="line-height: 1;">
-  <a href="https://discord.gg/Tc7c45Zzu5" target="_blank" style="margin: 2px;">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-DeepSeek%20AI-7289da?logo=discord&logoColor=white&color=7289da" style="display: inline-block; vertical-align: middle;"/>
-  </a>
-  <a href="https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/qr.jpeg?raw=true" target="_blank" style="margin: 2px;">
-    <img alt="Wechat" src="https://img.shields.io/badge/WeChat-DeepSeek%20AI-brightgreen?logo=wechat&logoColor=white" style="display: inline-block; vertical-align: middle;"/>
-  </a>
-  <a href="https://twitter.com/deepseek_ai" target="_blank" style="margin: 2px;">
-    <img alt="Twitter Follow" src="https://img.shields.io/badge/Twitter-deepseek_ai-white?logo=x&logoColor=white" style="display: inline-block; vertical-align: middle;"/>
-  </a>
-</div>
+# **DeepSeek Deutsch - Kostenloser Online-Chat**
 
-<div align="center" style="line-height: 1;">
-  <a href="https://github.com/deepseek-ai/DeepSeek-V3/blob/main/LICENSE-CODE" style="margin: 2px;">
-    <img alt="Code License" src="https://img.shields.io/badge/Code_License-MIT-f5de53?&color=f5de53" style="display: inline-block; vertical-align: middle;"/>
-  </a>
-  <a href="https://github.com/deepseek-ai/DeepSeek-V3/blob/main/LICENSE-MODEL" style="margin: 2px;">
-    <img alt="Model License" src="https://img.shields.io/badge/Model_License-Model_Agreement-f5de53?&color=f5de53" style="display: inline-block; vertical-align: middle;"/>
-  </a>
-</div>
+## [DeepSeek Deutsch - Kostenloser Online-Chat](https://www.deepseekdeutsch.org/)
 
+## **Was ist DeepSeek Deutsch?**
+DeepSeek Deutsch ist eine fortschrittliche KI-Chatplattform, die speziell für deutsche Nutzer entwickelt wurde. Mit modernster künstlicher Intelligenz ermöglicht sie natürliche Gespräche in Echtzeit, ähnlich wie **ChatGPT Deutsch**, jedoch kostenlos und ohne Anmeldung.
 
-<p align="center">
-  <a href="DeepSeek_V3.pdf"><b>Paper Link</b>👁️</a>
-</p>
+## **Wie benutzt man DeepSeek Deutsch?**
+### **Webanwendung**
+1. Besuchen Sie die offizielle Webseite: [DeepSeek Deutsch](https://www.deepseekdeutsch.org/)
+2. Klicken Sie auf "Jetzt starten" und beginnen Sie den Chat.
 
+### **DeepSeek App**
+1. Laden Sie die **DeepSeek Deutsch App** für Android oder iOS herunter.
+2. Öffnen Sie die App und beginnen Sie den Dialog ohne Registrierung.
 
-## 1. Introduction
+## [DeepSeek Deutsch - Kostenloser Online-Chat](https://www.deepseekdeutsch.org/)
 
-We present DeepSeek-V3, a strong Mixture-of-Experts (MoE) language model with 671B total parameters with 37B activated for each token. 
-To achieve efficient inference and cost-effective training, DeepSeek-V3 adopts Multi-head Latent Attention (MLA) and DeepSeekMoE architectures, which were thoroughly validated in DeepSeek-V2. 
-Furthermore, DeepSeek-V3 pioneers an auxiliary-loss-free strategy for load balancing and sets a multi-token prediction training objective for stronger performance. 
-We pre-train DeepSeek-V3 on 14.8 trillion diverse and high-quality tokens, followed by Supervised Fine-Tuning and Reinforcement Learning stages to fully harness its capabilities. 
-Comprehensive evaluations reveal that DeepSeek-V3 outperforms other open-source models and achieves performance comparable to leading closed-source models.
-Despite its excellent performance, DeepSeek-V3 requires only 2.788M H800 GPU hours for its full training.
-In addition, its training process is remarkably stable. 
-Throughout the entire training process, we did not experience any irrecoverable loss spikes or perform any rollbacks. 
-<p align="center">
-  <img width="80%" src="figures/benchmark.png">
-</p>
+## **Warum ist DeepSeek so beliebt?**
+- **Kostenlose Nutzung** – Keine versteckten Gebühren oder Abonnements.
+- **DeepSeek KI aus China** – Eine leistungsstarke **chinesische KI** als Alternative zu Google und OpenAI.
+- **Optimiert für Deutsch** – Speziell entwickelt für deutschsprachige Nutzer.
+- **DeepSeek R1 Deutsch** – Neueste Modellversion mit verbesserter Genauigkeit.
 
-## 2. Model Summary
+## **Funktionen von DeepSeek Deutsch**
+| **Feature** | **Beschreibung** |
+|------------|----------------|
+| **DeepSeek KI** | Fortschrittliche KI für präzise Antworten |
+| **DeepSeek Desktop** | Verfügbar als Web- und Desktop-Version |
+| **Deep Seek Aktien** | Investitionsmöglichkeiten in KI-Technologie |
+| **Seek Übersetzung** | Übersetzung zwischen Deutsch und Englisch |
+| **Perplexity Deutsch** | Optimierte KI-Modelle für intelligente Antworten |
 
----
+## **DeepSeek Modelle**
+- **DeepSeek AI V2 & V3** – Optimierte Modelle mit hoher Effizienz.
+- **DeepSeek R1 Deutsch** – Das neueste Modell für den deutschsprachigen Markt.
 
-**Architecture: Innovative Load Balancing Strategy and Training Objective**
+## [DeepSeek Deutsch - Kostenloser Online-Chat](https://www.deepseekdeutsch.org/)
 
-- On top of the efficient architecture of DeepSeek-V2, we pioneer an auxiliary-loss-free strategy for load balancing, which minimizes the performance degradation that arises from encouraging load balancing.
--  We investigate a Multi-Token Prediction (MTP) objective and prove it beneficial to model performance. 
-    It can also be used for speculative decoding for inference acceleration. 
+## **Tipps & Tricks für die Nutzung**
+- Nutzen Sie **DeepSeek Wiki**, um mehr über das Modell zu erfahren.
+- Verwenden Sie den **DeepThink-Modus** für detailliertere Antworten.
+- Probieren Sie die **DeepSeek App** aus, um mobil auf die KI zuzugreifen.
 
----
+## **Häufig gestellte Fragen (FAQ)**
+### **1. Was ist DeepSeek Deutsch?**
+DeepSeek Deutsch ist eine innovative **KI Deep Seek**-Plattform für deutsche Nutzer.
 
-**Pre-Training: Towards Ultimate Training Efficiency**
+### **2. Ist DeepSeek Deutsch kostenlos?**
+Ja, **DeepSeek Deutsch kostenlos** ist ohne Anmeldung und Gebühren verfügbar.
 
-- We design an FP8 mixed precision training framework and, for the first time, validate the feasibility and effectiveness of FP8 training on an extremely large-scale model.  
-- Through co-design of algorithms, frameworks, and hardware, we overcome the communication bottleneck in cross-node MoE training, nearly achieving full computation-communication overlap.  
-  This significantly enhances our training efficiency and reduces the training costs, enabling us to further scale up the model size without additional overhead.  
-- At an economical cost of only 2.664M H800 GPU hours, we complete the pre-training of DeepSeek-V3 on 14.8T tokens, producing the currently strongest open-source base model. The subsequent training stages after pre-training require only 0.1M GPU hours.
+### **3. Gibt es eine DeepSeek App?**
+Ja, die **DeepSeek App** ist für iOS und Android erhältlich.
 
----
+### **4. Wie unterscheidet sich DeepSeek von ChatGPT Deutsch?**
+DeepSeek ist eine **neue KI** aus China, während ChatGPT von OpenAI entwickelt wurde.
 
-**Post-Training: Knowledge Distillation from DeepSeek-R1**
+### **5. Was ist DeepSeek Aktie?**
+DeepSeek Aktie bezieht sich auf potenzielle Investitionen in **KI aus China**.
 
--   We introduce an innovative methodology to distill reasoning capabilities from the long-Chain-of-Thought (CoT) model, specifically from one of the DeepSeek R1 series models, into standard LLMs, particularly DeepSeek-V3. Our pipeline elegantly incorporates the verification and reflection patterns of R1 into DeepSeek-V3 and notably improves its reasoning performance. Meanwhile, we also maintain a control over the output style and length of DeepSeek-V3.
+### **6. Was ist das „Jahr der Schlange Google Spiel“?**
+Ein Google-Spiel, zu dem DeepSeek Informationen bereitstellen kann.
 
----
+DeepSeek Deutsch bietet eine einzigartige Möglichkeit, mit einer leistungsstarken KI auf Deutsch zu chatten. Testen Sie es jetzt auf der offiziellen Website!
 
+## [DeepSeek Deutsch - Kostenloser Online-Chat](https://www.deepseekdeutsch.org/)
 
 ## 3. Model Downloads
 
